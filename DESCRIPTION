@@ -1,0 +1,3 @@
+Static C++ banking library.
+Provides Account and Transaction classes for simple money operations.
+Built as a static library and packaged with CPack (DEB/RPM/TGZ/ZIP).
